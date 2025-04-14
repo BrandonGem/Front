@@ -1,0 +1,14 @@
+#fondo{
+    background-color:transparent;
+    width: 300px;
+    height: 200px;
+    border: 3px black double;
+}
+
+.medida-absoluta{
+    border: 2px red dotted;
+}
+
+.medida-relativa{
+    border: 2rem green solid;
+}
